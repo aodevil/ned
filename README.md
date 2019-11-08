@@ -1,7 +1,6 @@
 # NED CODE
 
 Nutrición y entrenamiento en Red (NED) es una aplicación desarrollada para Consejo Estatal para el Fomento Deportivo (CODE) de Jalisco, México. Desarrollada con react native, php y mysql.
-![](Capture1.png | width=170)
 <img src="Capture1.png" alt="alt text" width="170">
 <img src="Capture2.png" alt="alt text" width="170">
 <img src="Capture3.png" alt="alt text" width="170">
