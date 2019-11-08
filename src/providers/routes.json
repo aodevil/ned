@@ -1,0 +1,193 @@
+{
+    "prefix":{
+        "Visitante":"V",
+        "Coordinador":"C",
+        "Evaluador":"E",
+        "Alumno":"A"
+    },
+    "userHomePage":{
+        "Visitante":"ActividadesRouter",
+        "Coordinador":"EstadisticasRouter",
+        "Evaluador":"AlumnosRouter",
+        "Alumno":"InicioRouter"
+    },
+    "Login":{
+        "name":"Login",
+        "title":"Login"
+    },
+    "ObtenerCuenta":{
+        "name":"ObtenerCuenta",
+        "title":"Obtén una cuenta"
+    },
+    "Perfil":{
+        "name":"Perfil",
+        "title":"Mi perfil"
+    },
+    "ActividadesRouter":{
+        "prefix":"Actividades",
+        "name":"ActividadesRouter",
+        "title":"Actividades y eventos",
+        "child":{
+            "Actividades":{
+                "name":"Actividades",
+                "title":"Actividades y eventos"
+            },
+            "ListaActividades":{
+                "name":"ListaActividades",
+                "title":"Actividades"
+            },
+            "DetallesActividad":{
+                "name":"DetallesActividad",
+                "title":"Actividad"
+            },
+            "EditarActividad":{
+                "name":"EditarActividad",
+                "title":"Actividad"
+            },
+            "EditarEvento":{
+                "name":"EditarEvento",
+                "title":"Evento"
+            }
+        }
+    },
+    "CentrosRouter":{
+        "prefix":"Centros",
+        "name":"CentrosRouter",
+        "title":"Centros deportivos",
+        "child":{
+            "Centros":{
+                "name":"Centros",
+                "title":"Centros deportivos"
+            },
+            "DetallesCentro":{
+                "name":"DetallesCentro",
+                "title":"Centro deportivo"
+            },
+            "EditarCentro":{
+                "name":"EditarCentro",
+                "title":"Editar centro"
+            },
+            "ActividadesCentro":{
+                "name":"ActividadesCentro",
+                "title":"Actividades y eventos"
+            }
+        }
+    },
+    "EstadisticasRouter":{
+        "prefix":"Estadisticas",
+        "name":"EstadisticasRouter",
+        "title":"Estadísticas",
+        "child":{
+            "Estadisticas":{
+                "name":"Estadisticas",
+                "title":"Estadísticas"
+            },
+            "EstadisticasGraficas":{
+                "name":"EstadisticasGraficas",
+                "title":"Gráficas"
+            }
+        }
+    },
+    "CoordinadoresRouter":{
+        "prefix":"Coordinadores",
+        "name":"CoordinadoresRouter",
+        "title":"Coordinadores",
+        "child":{
+            "Coordinadores":{
+                "name":"Coordinadores",
+                "title":"Coordinadores"
+            },
+            "Coordinador":{
+                "name":"Coordinador",
+                "title":"Datos del coordinador"
+            }
+        }
+    },
+    "EvaluadoresRouter":{
+        "prefix":"Evaluadores",
+        "name":"EvaluadoresRouter",
+        "title":"Evaluadores",
+        "child":{
+            "Evaluadores":{
+                "name":"Evaluadores",
+                "title":"Evaluadores"
+            },
+            "Evaluador":{
+                "name":"Evaluador",
+                "title":"Datos del evaluador"
+            },
+            "AlumnosEvaluador":{
+                "name":"AlumnosEvaluador",
+                "title":"Alumnos del evaluador"
+            },
+            "AlumnoEvaluador":{
+                "name":"AlumnoEvaluador",
+                "title":"Alumno del evaluador"
+            }
+        }
+    },
+    "ReferenciasRouter":{
+        "prefix":"Referencias",
+        "name":"ReferenciasRouter",
+        "title":"Valores de referencia",
+        "child":{
+            "Referencias":{
+                "name":"Referencias",
+                "title":"Valores de referencia"
+            }
+        }
+    },
+    "AlumnosRouter":{
+        "prefix":"Alumnos",
+        "name":"AlumnosRouter",
+        "title":"Alumnos",
+        "child":{
+            "Alumnos":{
+                "name":"Alumnos",
+                "title":"Alumnos"
+            },
+            "Alumno":{
+                "name":"Alumno",
+                "title":"Alumno"
+            }
+        }
+    },
+    "EvaluacionRouter": {
+        "prefix": "Evaluacion",
+        "name": "EvaluacionRouter",
+        "title": "Evaluaciones",
+        "child": {
+            "Evaluacion":{
+                "name": "Evaluacion",
+                "title": "Evaluación"
+            },
+            "DetallesEvaluacion":{
+                "name": "DetallesEvaluacion",
+                "title": "Evaluación"
+            }
+        }
+    },
+    "InicioRouter": {
+        "prefix": "Inicio",
+        "name": "InicioRouter",
+        "title": "Inicio",
+        "child": {
+            "AlumnoInicio":{
+                "name": "AlumnoInicio",
+                "title": "Inicio"
+            },
+            "AlumnoInicioHistorial": {
+                "name": "AlumnoInicioHistorial",
+                "title": "Mi progreso"
+            },
+            "AlumnoInicioRecomendaciones": {
+                "name": "AlumnoInicioRecomendaciones",
+                "title": "Recomendaciones"
+            },
+            "AlumnoInicioCalificaciones": {
+                "name": "AlumnoInicioCalificaciones",
+                "title": "Califica tu experiencia"
+            }
+        }
+    }
+}

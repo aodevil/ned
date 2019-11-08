@@ -1,0 +1,12 @@
+{
+    "connection":"No es posible conectar con el servidor.",
+    "auth":"La cuenta no está activa.",
+    "userNotFound":"No se encontró el usuario",
+    "session": "La sesión ha expirado",
+    "setStorage":"No es posible guardar la información en el almacenamiento local.",
+    "getStorage":"No es posible obtener la información del almacenamiento local.",
+    "network":"Sin conexión a internet",
+    "cantProcess": "No es posible realizar el proceso",
+    "noChanges": "No se realizaron cambios",
+    "navigation": "Error al cambiar de vista"
+}

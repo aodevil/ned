@@ -1,0 +1,9 @@
+CODE Jalisco te da la bienvenida a la app Nutrición y Entrenamiento en Red (NED):
+Inicia sesión con tu nombre de usuario y contraseña.
+
+|*USER*|
+|*PASSWORD*|
+
+Podrás cambiar la contraseña después de iniciar sesión en la sección Mi perfil.
+
+Gracias. Hasta pronto.

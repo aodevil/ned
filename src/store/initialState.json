@@ -1,0 +1,190 @@
+{
+    "network":true,
+    "networkNotification":true,
+    "loading":false,
+    "token":"",
+    "usuario":{},
+    "centros":[],
+    "actividades":[],
+    "eventos":[],
+    "coordinadores":[],
+    "evaluadores":[],
+    "alumnos":[],
+    "disciplinas": [],
+    "referencias": [
+        {
+            "ID": "0",
+            "alto": 21,
+            "bajo": 0,
+            "grupo": "Equilibrio y coordinación",
+            "normal": 6,
+            "evaluacion": "Equilibrio",
+            "unidad": "segundos"
+        },
+        {
+            "ID": "1",
+            "alto": 7,
+            "bajo": 1,
+            "grupo": "Equilibrio y coordinación",
+            "normal": 4,
+            "evaluacion": "Coordinación",
+            "unidad": "minutos"
+        },
+        {
+            "ID": "2",
+            "alto": 1,
+            "bajo": -3,
+            "grupo": "Flexibilidad",
+            "normal": 0,
+            "evaluacion": "Flexibilidad",
+            "unidad": "cm"
+        },
+        {
+            "ID": "3",
+            "alto": 13,
+            "bajo": 1,
+            "grupo": "Fuerza",
+            "normal": 7,
+            "evaluacion": "Brazos",
+            "unidad": "repeticiones"
+        },
+        {
+            "ID": "4",
+            "alto": 20,
+            "bajo": 1,
+            "grupo": "Fuerza",
+            "normal": 10,
+            "evaluacion": "Piernas",
+            "unidad": "repeticiones"
+        },
+        {
+            "ID": "5",
+            "alto": 20,
+            "bajo": 1,
+            "grupo": "Fuerza",
+            "normal": 11,
+            "evaluacion": "Abdomen",
+            "unidad": "repeticiones"
+        },
+        {
+            "ID": "6",
+            "alto": 1.9,
+            "bajo": 1,
+            "grupo": "Resistencia",
+            "normal": 1.4,
+            "evaluacion": "Cooper",
+            "unidad": "km"
+        }
+    ],
+    "mediciones": [
+        {
+            "ID": "0",
+            "grupo": "Mediciones básicas",
+            "evaluacion": "Peso",
+            "unidad": "Kg"
+        },
+        {
+            "ID": "1",
+            "grupo": "Mediciones básicas",
+            "evaluacion": "Estatura",
+            "unidad": "m"
+        },
+        {
+            "ID": "2",
+            "grupo": "Circunferencias",
+            "evaluacion": "Cintura",
+            "unidad": "cm"
+        },
+        {
+            "ID": "3",
+            "grupo": "Circunferencias",
+            "evaluacion": "Cadera",
+            "unidad": "cm"
+        },
+        {
+            "ID": "4",
+            "grupo": "Circunferencias",
+            "evaluacion": "Pantorrilla",
+            "unidad": "cm"
+        },
+        {
+            "ID": "5",
+            "grupo": "Circunferencias",
+            "evaluacion": "Brazo relajado",
+            "unidad": "cm"
+        },
+        {
+            "ID": "6",
+            "grupo": "Circunferencias",
+            "evaluacion": "Brazo flexionado",
+            "unidad": "cm"
+        },
+        {
+            "ID": "7",
+            "grupo": "Pliegues",
+            "evaluacion": "Tricipital",
+            "unidad": "mm"
+        },
+        {
+            "ID": "8",
+            "grupo": "Pliegues",
+            "evaluacion": "Subescapular",
+            "unidad": "mm"
+        },
+        {
+            "ID": "9",
+            "grupo": "Pliegues",
+            "evaluacion": "Supraespinal",
+            "unidad": "mm"
+        },
+        {
+            "ID": "10",
+            "grupo": "Pliegues",
+            "evaluacion": "Abdominal",
+            "unidad": "mm"
+        },
+        {
+            "ID": "11",
+            "grupo": "Pliegues",
+            "evaluacion": "Muslo frontal",
+            "unidad": "mm"
+        },
+        {
+            "ID": "12",
+            "grupo": "Pliegues",
+            "evaluacion": "Pantorrilla medial",
+            "unidad": "mm"
+        },
+        {
+            "ID": "13",
+            "grupo": "Signos vitales",
+            "evaluacion": "Presión sistólica",
+            "unidad": ""
+        },
+        {
+            "ID": "14",
+            "grupo": "Signos vitales",
+            "evaluacion": "Presión diastólica",
+            "unidad": ""
+        },
+        {
+            "ID": "15",
+            "grupo": "Signos vitales",
+            "evaluacion": "Pulso basal",
+            "unidad": "ppm"
+        },
+        {
+            "ID": "16",
+            "grupo": "Diámetros",
+            "evaluacion": "Biestiloideo",
+            "unidad": "mm"
+        },
+        {
+            "ID": "17",
+            "grupo": "Diámetros",
+            "evaluacion": "Biepicondíleo",
+            "unidad": "mm"
+        }
+        
+    ]
+}

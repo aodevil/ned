@@ -1,0 +1,12 @@
+{
+    "none":"transparent",
+    "white":"#FFF",
+    "dark":"#505050",
+    "light":"#B9B9B9",
+    "clear":"#f2f2f2",
+    "success":"#087D40",
+    "primary":"#FCAB0D",
+    "secondary":"#003469",
+    "danger":"#ff3333",
+    "placeholder":"gray"
+}

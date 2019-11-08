@@ -1,0 +1,51 @@
+{
+  "name": "ned",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint .",
+    "postinstall": "jetify"
+  },
+  "dependencies": {
+    "@mapbox/mapbox-sdk": "0.6.0",
+    "@react-native-community/async-storage": "1.6.1",
+    "@react-native-community/netinfo": "4.1.4",
+    "@react-native-mapbox-gl/maps": "jshearer/maps",
+    "jetifier": "1.6.2",
+    "moment": "2.24.0",
+    "react": "16.8.6",
+    "react-native": "0.60.4",
+    "react-native-chart-kit": "3.10.0",
+    "react-native-elements": "0.19.1",
+    "react-native-offline": "5.0.0",
+    "react-native-popover-view": "2.0.4",
+    "react-native-pure-chart": "0.0.24",
+    "react-native-root-toast": "3.1.2",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "9.11.1",
+    "react-native-swipeout": "2.3.6",
+    "react-native-vector-icons": "6.2.0",
+    "react-navigation": "2.18.3",
+    "react-redux": "7.1.0",
+    "redux": "4.0.4",
+    "redux-thunk": "2.3.0",
+    "shortid": "2.2.14",
+    "validator": "11.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.5.5",
+    "@babel/runtime": "7.5.5",
+    "@bam.tech/react-native-make": "1.0.3",
+    "@react-native-community/eslint-config": "0.0.5",
+    "babel-jest": "24.8.0",
+    "eslint": "6.1.0",
+    "jest": "24.8.0",
+    "metro-react-native-babel-preset": "0.55.0",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
