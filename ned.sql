@@ -358,8 +358,8 @@ CREATE TABLE `recomendaciones` (
   `envia` varchar(20) NOT NULL,
   `recibe` varchar(20) NOT NULL,
   `fecha` bigint(20) NOT NULL,
-  `texto` text NOT NULL,
-  `titulo` text NOT NULL,
+  `texto` text NOT NULL DEFAULT ' ',
+  `titulo` text NOT NULL DEFAULT ' ',
   `tipo` tinyint(4) NOT NULL DEFAULT 0 COMMENT '0: alumno; 1: actividad'
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
