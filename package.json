@@ -14,7 +14,7 @@
     "@react-native-community/netinfo": "4.1.4",
     "@react-native-mapbox-gl/maps": "jshearer/maps",
     "jetifier": "1.6.2",
-    "moment": "2.24.0",
+    "moment": "2.29.2",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-chart-kit": "3.10.0",
